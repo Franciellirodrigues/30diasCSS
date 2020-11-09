@@ -6,13 +6,13 @@
 
 🧐 Sobre o desafio 
 
-Serão 30 dias fazendo mini projetos diários com HTML5 e CSS3 visando melhorar a habilidade de codificação. Este desafio foi inspirado pela @MilenaCarecho!<br><h2>
+Serão 30 dias fazendo mini projetos diários com HTML5 e CSS3 visando melhorar a habilidade de codificação. Este desafio foi inspirado pela @MilenaCarecho!<br>
 
 🚨 Regras Gerais
 
 Realizar um projeto por dia<br>
 Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS<br>
-O projeto deve ser concluído até 23:59<br><h2>
+O projeto deve ser concluído até 23:59<br>
 
 🎉 Resultado
 
