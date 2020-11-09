@@ -10,9 +10,9 @@ Serão 30 dias fazendo mini projetos diários com HTML5 e CSS3 visando melhorar 
 
 ## 🚨 Regras Gerais
 
-Realizar um projeto por dia<br>
-Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS<br>
-O projeto deve ser concluído até 23:59<br>
+- Realizar um projeto por dia<br>
+- Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS<br>
+- O projeto deve ser concluído até 23:59<br>
 
 ## 🎉 Resultado
 
