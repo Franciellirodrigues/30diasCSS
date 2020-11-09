@@ -16,10 +16,10 @@ O projeto deve ser concluído até 23:59<br>
 
 ## 🎉 Resultado
 
-Desafio dia 01 - Ícone de mídias sociais em camadas
+### Desafio dia 01 - Ícone de mídias sociais em camadas
 <img alt="iconesredessociais" src="https://ik.imagekit.io/atnyozbx9v/redessociais_qyAJc0W5h.gif">
 
 
-Desafio dia 02 - Loader Animado
+### Desafio dia 02 - Loader Animado
 <img alt="iconesredessociais" src="https://ik.imagekit.io/atnyozbx9v/loading_bw8wbp9LT.gif">
 
