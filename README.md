@@ -1,4 +1,4 @@
-<h1 align="center"></h1>
+<h1 align="center">
 30 DIAS CSS 💡
 </h1>
 <p align="center">
