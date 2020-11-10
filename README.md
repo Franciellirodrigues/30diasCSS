@@ -10,20 +10,20 @@ Serão 30 dias fazendo mini projetos diários com HTML5 e CSS3 visando melhorar 
 
 🚨 Regras Gerais
 
-Realizar um projeto por dia<br>
+Realizar um projeto por dia
 Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS<br>
-O projeto deve ser concluído até 23:59<br><h2>
+O projeto deve ser concluído até 23:59
 
 🎉 Resultado
-<h2>
+
 Desafio dia 01 - Ícone de mídias sociais em camadas
 <img alt="iconesredessociais" src="https://ik.imagekit.io/atnyozbx9v/redessociais_qyAJc0W5h.gif">
-<h2>
+
 
 Desafio dia 02 - Loader Animado
 <img alt="iconesredessociais" src="https://ik.imagekit.io/atnyozbx9v/loading_bw8wbp9LT.gif">
-<h2>
+
 
 Desafio dia 03 - Mudança de cor no texto
-<img alt="https://ik.imagekit.io/atnyozbx9v/needdcoffee_TqSzTCKmR.gif">
-<h2>
+<img alt="mudançadecor" src="https://ik.imagekit.io/atnyozbx9v/needdcoffee_TqSzTCKmR.gif">
+
