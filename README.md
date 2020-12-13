@@ -62,7 +62,7 @@ O projeto deve ser concluído até 23:59
 <img alt="textoanimado" src="https://ik.imagekit.io/atnyozbx9v/textoanimado_F0OtauQHK.gif">
 
 ### Desafio dia 15 - Texto flutuante
-<img alt="textoflutuante" src="https://ik.imagekit.io/atnyozbx9v/Textoflutuante_ZL3VOdYBa.gif">
+<img alt="textoflutuante" src="https://ik.imagekit.io/atnyozbx9v/particulas_thkwYL49A.gif">
 
 ### Desafio dia 16 - Botão com efeito
 <img alt="botaocomefeito" src="https://ik.imagekit.io/atnyozbx9v/botaocomefeitos_8fQypaEPa.gif">
