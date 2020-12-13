@@ -28,3 +28,23 @@ O projeto deve ser concluído até 23:59
 ### Desafio dia 03 - Mudança de cor no texto
 <img alt="mudançadecor" src="https://ik.imagekit.io/atnyozbx9v/needdcoffee_TqSzTCKmR.gif">
 
+### Desafio dia 04 - Botão com efeito
+<img alt="botaocomefeito" src="https://ik.imagekit.io/atnyozbx9v/botaohover_qsIO-ZWj9.gif">
+
+### Dia 05 - Efeito pulsar
+<img alt="efeitopulsar" src="https://ik.imagekit.io/atnyozbx9v/heart_YhBHcsI2dt.gif">
+
+### Desafio dia 06 - Efeito lightning text
+<img alt="efeitolightningtext" src="https://ik.imagekit.io/atnyozbx9v/efeito_GtOSH2lqd.gif">
+
+### Desafio dia 07 - Preloader animado
+<img alt="preloaderanimado" src="https://ik.imagekit.io/atnyozbx9v/preloader_animado_IYusYHJfD.gif">
+
+### Desafio dia 08 - Coração batendo
+<img alt="coracaobatendo" src="https://ik.imagekit.io/atnyozbx9v/cora__obatendo_IkYQJzCC3g.gif">
+
+### Desafio dia 09 - Pendulo de Newton
+<img alt="pendulodenewton" src="https://ik.imagekit.io/atnyozbx9v/pendulo_3kxEA7u8k6.gif">
+
+### Desafio dia 10 - Animação texto alternando
+<img alt="animacaodetexto" src="https://ik.imagekit.io/atnyozbx9v/EU_AMO_4z81uH6B6.gif">
