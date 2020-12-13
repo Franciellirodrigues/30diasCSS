@@ -110,5 +110,5 @@ O projeto deve ser concluído até 23:59
 <img alt="fogosdeartificio" src="https://ik.imagekit.io/atnyozbx9v/fogosdeartificio_8zqWBdn9d.gif"><br>
 
 
-  Desenvolvido com 💜 por Francielli Rodrigues
+                                 Desenvolvido com 💜 por Francielli Rodrigues
 
