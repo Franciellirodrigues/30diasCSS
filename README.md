@@ -47,7 +47,7 @@ O projeto deve ser concluído até 23:59
 <img alt="pendulodenewton" src="https://ik.imagekit.io/atnyozbx9v/pendulo_3kxEA7u8k6.gif">
 
 ### Desafio dia 10 - Animação texto alternando
-<img alt="animacaodetexto" src="https://ik.imagekit.io/atnyozbx9v/EU_AMO_4z81uH6B6.gif">
+<img alt="animacaodetexto" src="https://ik.imagekit.io/atnyozbx9v/eu_amo_cCwSnDBD-.gif">
 
 ### Desafio dia 11 - Botão com efeito hover
 <img alt="efeitohover" src="https://ik.imagekit.io/atnyozbx9v/botaoefeitohover_iX9LerY56.gif">
@@ -107,6 +107,8 @@ O projeto deve ser concluído até 23:59
 <img alt="menuresponsivo" src="https://ik.imagekit.io/atnyozbx9v/menuresponsivo_BdXBAQbtk.gif">
 
 ### Desafio dia 30 - Fogos de artificio
-<img alt="fogosdeartificio" src="https://ik.imagekit.io/atnyozbx9v/fogosdeartificio_8zqWBdn9d.gif">
+<img alt="fogosdeartificio" src="https://ik.imagekit.io/atnyozbx9v/fogosdeartificio_8zqWBdn9d.gif"><br>
 
+
+  Desenvolvido com 💜 por Francielli Rodrigues
 
